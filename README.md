@@ -1,6 +1,6 @@
 # DotNetFullStack_Assignments
 
-## JavaScript_jQuery
+## Course1 JavaScript_jQuery
 ### Module1 : JavaScript Introduction
 
 1. Practical :  Write a JavaScript code to display Employee details as follows in console window: 
