@@ -16,4 +16,4 @@
 				 
 				 
 				 
-3.   Create a web page to perform all math operations (Add, Sub, Multiply, Div) using JavaScript. (Refer the Image)  
+3.   Create a web page to perform all math operations (Add, Sub, Multiply, Div) using JavaScript. 
