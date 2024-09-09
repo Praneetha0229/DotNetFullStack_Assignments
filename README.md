@@ -1,7 +1,7 @@
 # DotNetFullStack_Assignments
 
-# JavaScript_jQuery
-# Module1 : JavaScript Introduction
+## JavaScript_jQuery
+### Module1 : JavaScript Introduction
 
 1. Practical :  Write a JavaScript code to display Employee details as follows in console window: 
 				Empno : 12645,  Ename  :  Scott,  Job : Manager, Salary :  45000
